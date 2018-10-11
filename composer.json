@@ -1,6 +1,6 @@
 {
   "name": "th3mouk/thunder-framework",
-  "description": "Event driven micro framework with Reactive Programming flavors",
+  "description": "Event driven micro CLI framework with Reactive Programming flavors",
   "type": "project",
   "license": "MIT",
   "authors": [

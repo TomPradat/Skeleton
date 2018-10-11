@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/Th3Mouk/Thunder/raw/master/resources/thunder-logo.svg?sanitize=true"></p>
 
 <p align="center">
-<a href="https://packagist.org/packages/th3mouk/thunder-framework"><img src="https://poser.pugx.org/th3mouk/thunder-framework/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/th3mouk/thunder-framework"><img src="https://poser.pugx.org/th3mouk/thunder-framework/license" alt="License"></a>
 </p>
 
 ## About Thunder CLI Framework
